@@ -37,4 +37,3 @@ const SinglePostPage = ({ match }) => {
 }
 
 export default SinglePostPage
-
